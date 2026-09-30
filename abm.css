@@ -143,3 +143,30 @@ nav ul li a{
     font-size: 14px;
     line-height: 1.5;
 }
+
+/*Diseño de Categoria Emergencias*/
+.alertas-grid {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.alerta-item {
+    background-color: #ffffff;
+    padding: 20px 30px;
+    border-radius: 8px;
+    border-left: 5px solid #dc3545;
+    min-width: 200px;
+}
+
+.alerta-num {
+    display: block;
+    font-size: 28px;
+    font-weight: bold;
+    color: #dc3545;
+    margin-bottom: 5px;
+}
+
+/*Diseño de categoria contacto*/
