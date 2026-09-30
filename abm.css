@@ -179,7 +179,7 @@ nav ul li a{
 }
 
 /* Fila individual: junta el ícono y el texto alineados */
-.telefono, .correo, .direccion {
+.telefono, .correo, .direccion, .horario {
     display: flex;
     align-items: center;    /* Centra verticalmente el ícono con el texto */
     gap: 12px;              /* Espacio horizontal entre el ícono y el texto */
@@ -193,7 +193,7 @@ nav ul li a{
 }
 
 /* Estilo del texto de contacto */
-.telefono span, .correo span, .direccion span {
+.telefono span, .correo span, .direccion span, .horario span {
     font-size: 16px;
     color: #333;
     line-height: 1.4;
