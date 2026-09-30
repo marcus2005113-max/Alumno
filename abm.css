@@ -148,14 +148,14 @@ nav ul li a{
 .alertas-grid {
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 20px;
     flex-wrap: wrap;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .alerta-item {
     background-color: #ffffff;
-    padding: 20px 30px;
+    padding: 25px;
     border-radius: 8px;
     border-left: 5px solid #dc3545;
     min-width: 200px;
@@ -163,10 +163,10 @@ nav ul li a{
 
 .alerta-num {
     display: block;
-    font-size: 28px;
+    font-size: 20px;
     font-weight: bold;
     color: #dc3545;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 /*Diseño de categoria contacto*/
