@@ -257,8 +257,17 @@ nav ul li a{
 .video-contenedor {
     display: flex;
     justify-content: center;
-    margin-top: 30px;
+    margin: 30px auto 0;
+    width: 100%;
+    max-width: 800px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.video-contenedor video {
     width: 100%;
     height: auto;
-    max-width: 800px;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    display: block;
 }
