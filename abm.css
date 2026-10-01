@@ -271,3 +271,9 @@ nav ul li a{
     object-fit: cover;
     display: block;
 }
+
+a {
+    color: #555b62;
+    text-decoration: none;
+    
+}
