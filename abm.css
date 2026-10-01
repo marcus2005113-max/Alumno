@@ -159,7 +159,6 @@ nav ul li a{
     border-radius: 8px;
     border-left: 5px solid #dc3545;
     min-width: 200px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
 }
 
 .alerta-num {
@@ -168,7 +167,6 @@ nav ul li a{
     font-weight: bold;
     color: #dc3545;
     margin-bottom: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 /*Diseño de categoria contacto*/
