@@ -95,6 +95,13 @@ nav ul li a{
     margin: 0 auto;
 }
 
+.contenedor-seccion video {
+    font-size: 16px;
+    color: #d21a1a;
+    max-width: 800px;
+    margin: 0 auto 30px auto;
+}
+
 .contenedor-seccion h2 {
     font-size: 32px;
     color: #203c56;
